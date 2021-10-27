@@ -1,5 +1,6 @@
 function Spa() {
-  return(<NavBar />);
+  return(<NavBar />)
 }
 
-ReactDom.render(<Spa />, document.getElementById("root"));
+ReactDOM.render(<Spa />, document.getElementById("root")
+);
